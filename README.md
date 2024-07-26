@@ -19,7 +19,7 @@ Open [http://localhost:3000/swagger-ui](http://localhost:3000/swagger-ui) with y
 
 To check and unfurl your or existing action open
 [https://actions.dialect.to/](https://actions.dialect.to/)  
-e.g action for swap on Jupiter: <localhost:3000/api/jupiter/swap/SOL-Bonk>
+For blink-me: <localhost:3000/api/donate>
 
 ## Examples in this repo
 
