@@ -18,7 +18,7 @@ import {
 } from '@solana/actions';
 
 const DONATION_DESTINATION_WALLET =
-  '3h4AtoLTh3bWwaLhdtgQtcC3a3Tokb8NJbtqR9rhp7p6';
+  'E4dgzv4wcQdE7UhcJqHdhMWJqSbrCuEFVPjPwRUmq1Xw';
 const DONATION_AMOUNT_SOL_OPTIONS = [1, 5, 10];
 const DEFAULT_DONATION_AMOUNT_SOL = 1;
 
